@@ -1,0 +1,15 @@
+{
+    "name": "tyler36/phpunit-helper-traits",
+    "description": "Additional phpunit traits to complement Laravel testing",
+    "require-dev": {
+        "phpunit/phpunit": "squizlabs/php_codesniffer",
+        "squizlabs/php_codesniffer": "^2.6"
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "tyler36\\phpunitTraits\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
